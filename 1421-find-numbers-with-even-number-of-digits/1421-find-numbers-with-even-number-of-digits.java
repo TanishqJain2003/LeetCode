@@ -11,12 +11,10 @@ class Solution {
 
 
         static int digitcount(int nums){
-            int count = 0;
-             while(nums!=0){
-                 nums = nums/10;
-                 count++;
-             }
-             return count;
+            if(nums<0){
+                nums=nums*-1;
+            }
+            return(int)(Math.log10(nums)) +1;
         }
         }
 
