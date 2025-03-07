@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/TanishqJain2003/LeetCode/tree/master/0742-to-lower-case) |
 | [2032-largest-odd-number-in-string](https://github.com/TanishqJain2003/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
