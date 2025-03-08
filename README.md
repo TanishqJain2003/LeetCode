@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/TanishqJain2003/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/TanishqJain2003/LeetCode/tree/master/0443-string-compression) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/TanishqJain2003/LeetCode/tree/master/0443-string-compression) |
 | [0742-to-lower-case](https://github.com/TanishqJain2003/LeetCode/tree/master/0742-to-lower-case) |
 | [2032-largest-odd-number-in-string](https://github.com/TanishqJain2003/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
