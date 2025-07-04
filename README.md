@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TanishqJain2003/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/TanishqJain2003/LeetCode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/TanishqJain2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/TanishqJain2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TanishqJain2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TanishqJain2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/TanishqJain2003/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/TanishqJain2003/LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/TanishqJain2003/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/TanishqJain2003/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/TanishqJain2003/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
