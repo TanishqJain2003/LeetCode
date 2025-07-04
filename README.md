@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/TanishqJain2003/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TanishqJain2003/LeetCode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanishqJain2003/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TanishqJain2003/LeetCode/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/TanishqJain2003/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
