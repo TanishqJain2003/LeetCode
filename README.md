@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TanishqJain2003/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/TanishqJain2003/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/TanishqJain2003/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/TanishqJain2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/TanishqJain2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TanishqJain2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TanishqJain2003/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/TanishqJain2003/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TanishqJain2003/LeetCode/tree/master/0268-missing-number) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TanishqJain2003/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/TanishqJain2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TanishqJain2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
