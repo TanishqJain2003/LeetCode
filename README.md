@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/TanishqJain2003/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/TanishqJain2003/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/TanishqJain2003/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/TanishqJain2003/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/TanishqJain2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TanishqJain2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/TanishqJain2003/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/TanishqJain2003/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TanishqJain2003/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/TanishqJain2003/LeetCode/tree/master/0645-set-mismatch) |
