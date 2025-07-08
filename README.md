@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TanishqJain2003/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/TanishqJain2003/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/TanishqJain2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/TanishqJain2003/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/TanishqJain2003/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TanishqJain2003/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishqJain2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TanishqJain2003/LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/TanishqJain2003/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/TanishqJain2003/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/TanishqJain2003/LeetCode/tree/master/0443-string-compression) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishqJain2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/TanishqJain2003/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
