@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/TanishqJain2003/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/TanishqJain2003/LeetCode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/TanishqJain2003/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TanishqJain2003/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -174,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/TanishqJain2003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TanishqJain2003/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TanishqJain2003/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TanishqJain2003/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
