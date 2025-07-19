@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/TanishqJain2003/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/TanishqJain2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TanishqJain2003/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/TanishqJain2003/LeetCode/tree/master/0792-binary-search) |
@@ -198,5 +199,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanishqJain2003/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/TanishqJain2003/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TanishqJain2003/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
