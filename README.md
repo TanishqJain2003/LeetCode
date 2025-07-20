@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/TanishqJain2003/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/TanishqJain2003/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishqJain2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -198,11 +199,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanishqJain2003/LeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/TanishqJain2003/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/TanishqJain2003/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TanishqJain2003/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/TanishqJain2003/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
