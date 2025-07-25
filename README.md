@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/TanishqJain2003/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/TanishqJain2003/LeetCode/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/TanishqJain2003/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/TanishqJain2003/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/TanishqJain2003/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TanishqJain2003/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/TanishqJain2003/LeetCode/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/TanishqJain2003/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/TanishqJain2003/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [2032-largest-odd-number-in-string](https://github.com/TanishqJain2003/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/TanishqJain2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishqJain2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0646-maximum-length-of-pair-chain](https://github.com/TanishqJain2003/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Recursion
 |  |
 | ------- |
