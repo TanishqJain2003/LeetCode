@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanishqJain2003/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/TanishqJain2003/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/TanishqJain2003/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/TanishqJain2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/TanishqJain2003/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TanishqJain2003/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/TanishqJain2003/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/TanishqJain2003/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/TanishqJain2003/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0189-rotate-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TanishqJain2003/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/TanishqJain2003/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/TanishqJain2003/LeetCode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/TanishqJain2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
