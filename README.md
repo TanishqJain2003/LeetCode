@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/TanishqJain2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TanishqJain2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/TanishqJain2003/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/TanishqJain2003/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanishqJain2003/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TanishqJain2003/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/TanishqJain2003/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/TanishqJain2003/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/TanishqJain2003/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/TanishqJain2003/LeetCode/tree/master/0645-set-mismatch) |
@@ -248,4 +250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanishqJain2003/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/TanishqJain2003/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
