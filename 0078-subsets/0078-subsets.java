@@ -1,7 +1,7 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
-          findSubsets(nums.length - 1, nums, new ArrayList<>(), result);
+          findSubsets(nums.length - 1, nums,  new ArrayList<>(), result);
           return result;
     }
     public void findSubsets(int idx, int[] nums, List<Integer> subset, List<List<Integer>>result) {
