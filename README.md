@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/TanishqJain2003/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/TanishqJain2003/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TanishqJain2003/LeetCode/tree/master/0268-missing-number) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/TanishqJain2003/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanishqJain2003/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TanishqJain2003/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2032-largest-odd-number-in-string](https://github.com/TanishqJain2003/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanishqJain2003/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TanishqJain2003/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/TanishqJain2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/TanishqJain2003/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanishqJain2003/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TanishqJain2003/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/TanishqJain2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/TanishqJain2003/LeetCode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
